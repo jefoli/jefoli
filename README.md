@@ -1,4 +1,4 @@
-## Olá, eu sou Jeferson de Oliveira.
+## Bem vindo.
 
 - 🌱 Atualmente estou cursando a faculdade de Engenharia de Software.
 - 🌱 Possuo conhecimento em:

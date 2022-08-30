@@ -1,6 +1,6 @@
-## Jeferson de Oliveira.
+## Jeferson de Oliveira
 
-- 👨‍🎓 Atualmente estou cursando a faculdade de Engenharia de Software.
+- 👨‍🎓 Estudante do curso de Engenharia de Software.
 - 🎓 Graduado em Direito.
 - 🎓 Pós-graduado em Direito Corporativo.
 - ⚡ Triatleta amador.	

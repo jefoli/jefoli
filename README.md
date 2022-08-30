@@ -1,6 +1,9 @@
 ## Bem vindo. Eu sou Jeferson de Oliveira.
 
-- 🌱 Atualmente estou cursando a faculdade de Engenharia de Software.
+- 👨‍🎓 Atualmente estou cursando a faculdade de Engenharia de Software.
+- 🎓 Graduado em Direito.
+- 🎓 Pós-graduado em Direito Corporativo.
+- ⚡ Triatleta amador.	
 - 🌱 Possuo conhecimento em:
 <div style="display: inline_block">
   <img align="center" alt="jefoli-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

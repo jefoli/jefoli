@@ -4,7 +4,11 @@
   <li> 🎓 Graduado em Direito.</li>
   <li> 🎓 Pós-graduado em Direito Corporativo.</li>
   <li> ⚡ Triatleta amador.</li>
-  <li> :pushpin: Fun Fact: Meu primeiro contato com sistemas de desenvolvimento de software foi o Delphi 6.</li>
+  <li> :pushpin: Fun Facts:<br> 
+    - Meu primeiro contato com sistemas de desenvolvimento de software foi o Delphi 6.<br>
+    - Abandonei a carreira advogado para me dedicar a algo que amo.<br>
+    - O que me incentivou migrar de área foi o fato de participar de processos iteração de sistemas;
+  </li>
   <li> 🌱 Possuo conhecimento em:</li>
  </li>
  <br>

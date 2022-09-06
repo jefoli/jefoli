@@ -3,7 +3,8 @@
   <li> 👨‍🎓 Estudante de Engenharia de Software.</li>
   <li> 🎓 Graduado em Direito.</li>
   <li> 🎓 Pós-graduado em Direito Corporativo.</li>
-  <li> ⚡ Triatleta amador.	</li>
+  <li> ⚡ Triatleta amador.</li>
+  <li> :pushpin: Fun Fact: Meu primeiro contato com sistemas de desenvolvimento de software foi o Delphi 6.</li>
   <li> 🌱 Possuo conhecimento em:</li>
  </li>
  <br>

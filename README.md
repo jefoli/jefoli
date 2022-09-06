@@ -6,8 +6,8 @@
   <li> ⚡ Triatleta amador.</li>
   <li> :pushpin: Fun Facts:<br> 
     - Meu primeiro contato com sistemas de desenvolvimento de software foi o Delphi 6.<br>
-    - Abandonei a carreira advogado para me dedicar a algo que amo.<br>
-    - O que me incentivou migrar de área foi o fato de participar de processos iterativos para aprimorar os sistemas utilizados;
+    - Dei pausa a carreira advogado para me dedicar a algo que amo.<br>
+    - O que me incentivou migrar de carreira foi o fato de participar de processos iterativos para aprimorar os sistemas de software do escritório.
   </li>
   <li> 🌱 Possuo conhecimento em:</li>
  </li>

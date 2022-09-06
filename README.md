@@ -1,6 +1,6 @@
 <h1> Jeferson de Oliveira</h1>
 <ul>
-  <li> 👨‍🎓 Estudante do curso de Engenharia de Software.</li>
+  <li> 👨‍🎓 Estudante de Engenharia de Software.</li>
   <li> 🎓 Graduado em Direito.</li>
   <li> 🎓 Pós-graduado em Direito Corporativo.</li>
   <li> ⚡ Triatleta amador.	</li>

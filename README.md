@@ -1,10 +1,12 @@
-## Jeferson de Oliveira
-
-- 👨‍🎓 Estudante do curso de Engenharia de Software.
-- 🎓 Graduado em Direito.
-- 🎓 Pós-graduado em Direito Corporativo.
-- ⚡ Triatleta amador.	
-- 🌱 Possuo conhecimento em:
+<h1> Jeferson de Oliveira</h1>
+<ul>
+  <li> 👨‍🎓 Estudante do curso de Engenharia de Software.</li>
+  <li> 🎓 Graduado em Direito.</li>
+  <li> 🎓 Pós-graduado em Direito Corporativo.</li>
+  <li> ⚡ Triatleta amador.	</li>
+  <li> 🌱 Possuo conhecimento em:</li>
+ </li>
+ <br>
 <div style="display: inline_block">
   <img align="center" alt="jefoli-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jefoli-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">

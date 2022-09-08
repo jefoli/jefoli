@@ -9,7 +9,7 @@
     - Dei pausa na carreira advogado para me dedicar a algo que amo.<br>
     - O que me incentivou a migrar de carreira foi o fato de participar de processos iterativos para aprimorar os sistemas de software do escritório.
   </li>
-  <li> 🌱 Possuo conhecimento em:</li>
+  <li> 🌱 Constante estudo em:</li>
  </li>
  <br>
 <div style="display: inline_block">

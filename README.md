@@ -3,7 +3,7 @@
   <li> 👨‍🎓 Estudante de Engenharia de Software.</li>
   <li> 🎓 Graduado em Direito.</li>
   <li> 🎓 Pós-graduado em Direito Corporativo.</li>
-  <li> ⚡ Triatleta amador.</li>
+  <li> ⚡ Corredor amador.</li>
   <li> :pushpin: Fun Facts:<br> 
     - Meu primeiro contato com sistemas de desenvolvimento de software foi o Delphi 6.<br>
     - Dei pausa na carreira advogado para me dedicar a algo que amo.<br>
@@ -16,7 +16,6 @@
   <img align="center" alt="jefoli-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jefoli-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="jefoli-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="jefoli-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="jefoli-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 <div>

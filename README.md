@@ -2,7 +2,6 @@
 <ul>
   <li> 👨‍🎓 Estudante de Engenharia de Software.</li>
   <li> 🎓 Graduado em Direito.</li>
-  <li> 🎓 Pós-graduado em Direito Corporativo.</li>
   <li> ⚡ Corredor amador.</li>
   <li> :pushpin: Fun Facts:<br> 
     - Meu primeiro contato com sistemas de desenvolvimento de software foi o Delphi 6.<br>

@@ -1,6 +1,8 @@
 <h1> Jeferson de Oliveira</h1>
 <ul>
-  <li> 👨‍🎓 Estudante de Engenharia de Software.</li>
+  <li> 👨‍🎓 Desenvolvedor Front-End Júnior e estudante de engenharia de software pela universidade Unicesumar.</li>
+  <li> 📚 Em constante aprendizado em: HTML, CSS, JavaScript, TypeScript, React, Next.JS, Node,  BS: SQL e NoSQL.</li>
+  <li> 📱 Entusiasta pelo desenvolvimento de aplicações iOS com a linguagem de programação Swift, explorando frameworks como UIKit e SwiftUI.</li>
   <li> 🎓 Graduado em Direito.</li>
   <li> ⚡ Corredor amador.</li>
   <li> :pushpin: Fun Facts:<br> 

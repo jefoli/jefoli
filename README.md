@@ -5,12 +5,10 @@
   <li> 📱 Entusiasta pelo desenvolvimento de aplicações iOS com a linguagem de programação Swift, explorando frameworks como UIKit e SwiftUI.</li>
   <li> 🎓 Graduado em Direito.</li>
   <li> ⚡ Corredor amador.</li>
-  <li> :pushpin: Fun Facts:<br> 
-    - Meu primeiro contato com sistemas de desenvolvimento de software foi o Delphi 6.<br>
+  <li> 📌 Fun Facts:<br> 
     - Pausei a carreira advogado para me dedicar a algo que amo.<br>
     - O que me incentivou a migrar de carreira foi o fato de participar de processos iterativos para aprimorar o sistema de software do escritório.
   </li>
-  <li> 🌱 Constante estudo em:</li>
  </li>
 <div style="display: inline_block">
   <img align="center" alt="jefoli-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

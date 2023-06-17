@@ -21,7 +21,6 @@
   <img align="center" alt="tailwindcss" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
   <img align="center" alt="node" height="80" width="80"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 <br />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jefoli&show_icons=true&title_color=778899&icon_color=008B8B&text_color=008B8B&bg_color=FFF&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefoli&layout=compact&title_color=778899&text_color=008B8B&hide=java&bg_color=FFF&text_bold=900&count_private=true"/>
 <hr>
 <div style="display: inline_block">

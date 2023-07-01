@@ -1,20 +1,18 @@
 <h1> Jeferson de Oliveira</h1>
 <ul>
-  <li> 👨‍🎓 Desenvolvedor Front-End Júnior e estudante de engenharia de software pela universidade Unicesumar.</li>
-  <li> 📚 Em constante aprendizado em: HTML, CSS, JavaScript, TypeScript, React, Next.JS, Node,  BS: SQL e NoSQL.</li>
-  <li> 📱 Entusiasta pelo desenvolvimento de aplicações iOS com a linguagem de programação Swift, explorando frameworks como UIKit e SwiftUI.</li>
+  <li> 🎓 Desenvolvedor e futuro Software Engineer.</li>
+  <li> 👨‍🎓 Estudante de Engenharia de Software pela universidade Unicesumar.</li>
+  <li>Apaixonado por desenvolvimento de softwares que visam solucionar problemas e criar de soluções eficientes que impactam na vida das pessoas.</li>
   <li> 🎓 Graduado em Direito.</li>
   <li> ⚡ Corredor amador.</li>
-  <li> 📌 Fun Facts:<br> 
-    - Pausei a carreira advogado para me dedicar a algo que amo.<br>
-    - O que me incentivou a migrar de carreira foi o fato de participar de processos iterativos para aprimorar o sistema de software do escritório.
-  </li>
  </li>
+<h4><i>	Que todos aspectos visiveis e ocultos tenham beleza. Qualidade e estética tem que ser levado até o fim.</i></h4>
 <div style="display: inline_block">
   <img align="center" alt="html" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="css" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="javascript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="typescript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="react" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="nextjs" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
   <img align="center" alt="styled-components" height="50" width="50" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" />

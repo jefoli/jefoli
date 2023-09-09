@@ -5,9 +5,7 @@
   <li> ⚡ Apaixonado por desenvolvimento de softwares que visam solucionar problemas e criar de soluções eficientes que impactam na vida das pessoas.</li>
   <li> 🎓 Graduado em Direito.</li>
   <li> 🍀 Nas horas vagas tenho me dedicado a explorar a versatilidade e eficiência da linguagem Go (Golang), motivado pelo seu paradigma de programação concorrente, que possibilita alcançar alta performance em diversos sistemas.</li>
-</ul>
-<h4><i>	Que todos aspectos visiveis e ocultos tenham beleza. Qualidade e estética tem que ser levado até o fim.</i></h4>
-  
+</ul>  
 <div style="display: inline_block">
   <img align="center" alt="html" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="css" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">

@@ -2,8 +2,8 @@
 <ul>
   <li> 👨‍💻 Desenvolvedor e futuro Engenheiro de Software.</li>
   <li> 🎓 Estudante de Engenharia de Software pela universidade Unicesumar.</li>
-  <li> ⚡ Apaixonado por desenvolvimento de softwares que visam solucionar problemas e criar de soluções eficientes que impactam na vida das pessoas.</li>
   <li> ⚙️ Entusiasta pela linguagem de programação Golang. </li>
+  <li> ⚡ Apaixonado por desenvolvimento de softwares que visam solucionar problemas e criar de soluções eficientes que impactam na vida das pessoas.</li>
 </ul>  
 <div style="display: inline_block">
   <img align="center" alt="html" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

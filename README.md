@@ -2,7 +2,7 @@
 <ul>
   <li> 👨‍💻 Desenvolvedor e futuro Engenheiro de Software.</li>
   <li> 🎓 Estudante de Engenharia de Software pela universidade Unicesumar.</li>
-  <li> ⚙️ Application developer at IBM Brasil. </li>
+  <li> ⚙️ Application developer Intern at IBM Brasil. </li>
 </ul>  
 <div style="display: inline_block">
   <img align="center" alt="html" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
